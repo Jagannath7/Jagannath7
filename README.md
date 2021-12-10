@@ -18,21 +18,18 @@
 
 ---
 
+  ![Jagannath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jagannath7&show_icons=true&theme=gruvbox)
 
-<details>
-
-  <img align="left" alt="Jagannath's GitHub Stats" src="https://github-readme-stats.Jagannath7.vercel.app/api?username=Jagannath7&show_icons=true&hide_border=true&theme=gruvbox" />
-
-</details>
+<br />
+<br />
 
 
-<details>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jagannath7)](https://github.com/Jagannath7/github-readme-stats)
 
 
 
-</details>
 
 
 [linkedin]: linkedin.com/in/jagannath-jayanti-92020b194
